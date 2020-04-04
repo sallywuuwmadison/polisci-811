@@ -1,0 +1,26 @@
+---
+title: "skills-1"
+author: "Yi-jung Wu"
+date: "2/14/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r}
+first <- "Yi-jung"
+last <- "Wu"
+c (first, last)
+```
+
+```{r}
+library("here")       # file paths
+library("tidyverse")  # workhorse package
+here()
+```
+
+
+```{r}
+cafe <- read_csv(here("data","CAFE.csv"))
+```
+
