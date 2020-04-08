@@ -1,10 +1,10 @@
 ---
 title: In-Depth R Markdown
-author: "PS 811: Introduction to Statistical Computing"
+author: "PS 811: Introduction to Statistical Computing testtesttest 333333"
 date: |
   `r format(Sys.time(), '%B %d, %Y')`
 abstract: |
-  This document serves as lecture notes for R Markdown (March 27, 2020). It demonstrates key capabilities of R Markdown for preparing HTML documents and PDF documents: incorporating R code along with Markdown writing, controlling the output of R code, writing math, creating tables and figures, bibliographies, rendering to multiple output formats, and more.
+  test test test This document serves as lecture notes for R Markdown (March 27, 2020). It demonstrates key capabilities of R Markdown for preparing HTML documents and PDF documents: incorporating R code along with Markdown writing, controlling the output of R code, writing math, creating tables and figures, bibliographies, rendering to multiple output formats, and more.
 geometry: margin = 1.15in              # margin widths
 fontsize: 12pt                         # text size
 bibliography: bibliography-example.bib # bibliography file
